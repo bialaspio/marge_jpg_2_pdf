@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "marge_jpg_2_pdf", "marge_jpg_2_pdf\marge_jpg_2_pdf.csproj", "{234A791F-4E0B-40F6-8C84-2BC81CC504C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{234A791F-4E0B-40F6-8C84-2BC81CC504C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{234A791F-4E0B-40F6-8C84-2BC81CC504C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{234A791F-4E0B-40F6-8C84-2BC81CC504C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{234A791F-4E0B-40F6-8C84-2BC81CC504C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7269A4C-28EB-47D6-8D38-3379117BCA3C}
+	EndGlobalSection
+EndGlobal
